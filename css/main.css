@@ -1,0 +1,14 @@
+body { 
+    background-color: rgb(141, 141, 141);
+    font-family: Tahoma, Geneva, sans-serif;
+    color: rgba(39, 37, 28, 0.877);
+    padding-bottom: 15px;
+}
+h1 {
+    padding-left: 15px;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
